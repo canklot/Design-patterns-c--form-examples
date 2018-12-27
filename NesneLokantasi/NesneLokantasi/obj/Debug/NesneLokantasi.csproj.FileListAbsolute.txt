@@ -1,0 +1,16 @@
+C:\Users\Canavar\source\repos\NesneLokantasi\NesneLokantasi\bin\Debug\NesneLokantasi.exe.config
+C:\Users\Canavar\source\repos\NesneLokantasi\NesneLokantasi\bin\Debug\NesneLokantasi.exe
+C:\Users\Canavar\source\repos\NesneLokantasi\NesneLokantasi\bin\Debug\NesneLokantasi.pdb
+C:\Users\Canavar\source\repos\NesneLokantasi\NesneLokantasi\obj\Debug\NesneLokantasi.csprojAssemblyReference.cache
+C:\Users\Canavar\source\repos\NesneLokantasi\NesneLokantasi\obj\Debug\NesneLokantasi.Form1.resources
+C:\Users\Canavar\source\repos\NesneLokantasi\NesneLokantasi\obj\Debug\NesneLokantasi.Properties.Resources.resources
+C:\Users\Canavar\source\repos\NesneLokantasi\NesneLokantasi\obj\Debug\NesneLokantasi.csproj.GenerateResource.cache
+C:\Users\Canavar\source\repos\NesneLokantasi\NesneLokantasi\obj\Debug\NesneLokantasi.csproj.CoreCompileInputs.cache
+C:\Users\Canavar\source\repos\NesneLokantasi\NesneLokantasi\obj\Debug\NesneLokantasi.exe
+C:\Users\Canavar\source\repos\NesneLokantasi\NesneLokantasi\obj\Debug\NesneLokantasi.pdb
+C:\Users\Canavar\source\repos\NesneLokantasi\NesneLokantasi\obj\Debug\state.stateform.resources
+C:\Users\Canavar\source\repos\NesneLokantasi\NesneLokantasi\obj\Debug\NesneLokantasi.facede.faceform.resources
+C:\Users\Canavar\source\repos\NesneLokantasi\NesneLokantasi\obj\Debug\NesneLokantasi.iterator.iterform.resources
+C:\Users\Canavar\source\repos\NesneLokantasi\NesneLokantasi\obj\Debug\NesneLokantasi.adaptor.adapform.resources
+C:\Users\Canavar\source\repos\NesneLokantasi\NesneLokantasi\obj\Debug\NesneLokantasi.Template.tempform.resources
+C:\Users\Canavar\source\repos\NesneLokantasi\NesneLokantasi\obj\Debug\NesneLokantasi.command.commandoform.resources
